@@ -3,5 +3,5 @@
 npm r -g watchman
 brew install watchman
 
-rm -rf ~/Library/LaunchAgents
+sudo rm -rf ~/Library/LaunchAgents
 mkdir ~/Library/LaunchAgents
